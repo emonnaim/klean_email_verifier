@@ -20,7 +20,7 @@ template = lambda : {
 url = "https://api.kleanmail.com/record_verification/api_record"
 
 headers = {
-  'api_key': 'api_key::_DqmoZ2xpohM3mAfobIWt4TN2WbKNWdBpUpsxGhoJyok%3D', # Your API KEY 
+  'api_key': '_DqmoZ2xpohM3mAfobIWt4TN2WbKNWdBpUpsxGhoJyok%3D', # Your API KEY 
   'Content-Type': 'application/json'
 }
 
